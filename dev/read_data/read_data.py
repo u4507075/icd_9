@@ -2,7 +2,7 @@ import pandas
 import re
 from collections import Counter
 
-path = '../data/'
+path = '../data/icd9'
 
 #Step 1: splite words in pre-operation to create features
 '''
